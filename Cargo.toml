@@ -1,0 +1,8 @@
+[package]
+name = "chip8"
+version = "0.1.0"
+authors = ["Lain <lain@lain.org.uk>"]
+
+[dependencies]
+rand = "0.3.14"
+sdl2 = "0.20.1"
